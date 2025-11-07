@@ -81,4 +81,3 @@ Where to look in the code
 - Application bootstrap: `src/main/java/com/example/parser/ParserApplication.java` and `src/main/java/com/example/parser/cookie/CookieApplication.java`
 - Core analysis logic: `src/main/java/com/example/parser/cookie/MostActiveCookieAnalyzer.java`
 - Tests: `src/test/java/com/example/parser/`
-- 
