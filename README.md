@@ -81,7 +81,4 @@ Where to look in the code
 - Application bootstrap: `src/main/java/com/example/parser/ParserApplication.java` and `src/main/java/com/example/parser/cookie/CookieApplication.java`
 - Core analysis logic: `src/main/java/com/example/parser/cookie/MostActiveCookieAnalyzer.java`
 - Tests: `src/test/java/com/example/parser/`
-
-If you want me to also:
-- add a short example CSV in `src/test/resources/` or update the `cookie-analyzer` script to use an absolute path, I can do that next.
-```
+- 
